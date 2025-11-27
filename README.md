@@ -143,6 +143,16 @@
 - [Font Awesome](https://fa6.dashgame.com/) - 一款专业的互联网图标库和工具套件
 - [Shields.io](https://shields.io/) - 一项简洁、一致、易读的徽章服务
 
+## API 服务
+
+- [Favicon Extractor](https://www.faviconextractor.com/) - 提取 favicons
+
+- [Hitokoto](https://hitokoto.cn/) - 感动，动漫，二次元，台词，语句
+
+- [Cravatar ](https://cn.cravatar.com/) - 互联网公共头像服务
+
+  
+
 # 🎊 综合资源
 
 > **小贴士**
@@ -169,6 +179,24 @@
 - [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 RN 开发的音乐软件![Android][Android Icon]
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - 开源的命令行 m3u8/HLS/dash 下载器 ![Windows][Windows Icon]
 - [legado](https://github.com/gedoor/legado) - 阅读是一款可以自定义来源阅读网络内容的工具 ![Android][Android Icon]
+
+## 设计资源
+
+- [Unsplash](https://unsplash.com/) - 美丽的免费图片
+- [来点图](https://setu.mossia.top/) - 色即是空，空即是色
+- [恋风壁纸](https://www.luvbree.com/) - 高质量壁纸
+- [彼岸图网](https://pic.netbian.com/) - 高质量壁纸
+- [Pixabay](https://pixabay.com/zh/) - 优质图片和视频素材，让你轻松应对各种设计场景
+- [BoBoPic](https://bobopic.com/) - 每天都有好看的壁纸图片
+- [Pixiv](https://www.pixiv.net/) - 插画、漫画、小说作品交流服务
+- [找字体网](https://zfont.cn/) - 免费字体
+- [优品PPT](https://www.ypppt.com/) - 精美免费的 PPT 模板
+
+## 效率工具
+
+- [AI设计神器](https://www.logosc.cn/design/) - AI智能图片设计工具
+- [凡科快图](https://kt.fkw.com/) - 让设计更简单，极简图片编辑
+- [Instant Username Search](https://instantusername.com/) - 检查多平台上的用户名可用性
 
 [Official Icon]: ./icon/official-icon.svg "官网"
 [Chinese Icon]: ./icon/chinese-icon.svg "中文网"
