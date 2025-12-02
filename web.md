@@ -47,12 +47,6 @@
 - [NestJS](https://nestjs.com/) - Node 框架，用于构建高效、可靠和可扩展的服务器端应用程序
 - [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/) - 一个简单、高效的应用开发框架和丰富的组件及 API
 - [HarmonyOS](https://developer.huawei.com/) - 开发者官网，共建鸿蒙生态
-- [qiankun](https://qiankun.umijs.org/zh) - 可能是你见过最完善的微前端解决方案 🧐
-- [EMP](https://emp2.netlify.app/) - 聚焦微前端生态闭环建设,v2.7 全面支持模块共享热更
-- [MicroApp](https://jd-opensource.github.io/micro-app/) - 一款简约、高效、功能强大的微前端框架
-- [无界](https://wujie-micro.github.io/doc/) - 基于 WebComponent 容器 + iframe 沙箱
-- [Garfish](https://www.garfishjs.org/) - 构建微前端系统时所需要的基本能力，任意前端框架均可使用。接入简单
-- [Icestark](https://micro-frontends.ice.work) - 面向大型系统的微前端解决方案
 
 ## Plugin 插件
 
@@ -162,6 +156,15 @@
 - [Favicon Extractor](https://www.faviconextractor.com/) - 提取 favicons
 - [Hitokoto](https://hitokoto.cn/) - 感动，动漫，二次元，台词，语句
 - [Cravatar ](https://cn.cravatar.com/) - 互联网公共头像服务
+
+## Micro 微前端
+
+- [qiankun](https://qiankun.umijs.org/zh) - 可能是你见过最完善的微前端解决方案 🧐
+- [EMP](https://emp2.netlify.app/) - 聚焦微前端生态闭环建设,v2.7 全面支持模块共享热更
+- [MicroApp](https://jd-opensource.github.io/micro-app/) - 一款简约、高效、功能强大的微前端框架
+- [无界](https://wujie-micro.github.io/doc/) - 基于 WebComponent 容器 + iframe 沙箱
+- [Garfish](https://www.garfishjs.org/) - 构建微前端系统时所需要的基本能力，任意前端框架均可使用。接入简单
+- [Icestark](https://micro-frontends.ice.work) - 面向大型系统的微前端解决方案
 
 [Official Icon]: ./icon/official-icon.svg "官网"
 [Chinese Icon]: ./icon/chinese-icon.svg "中文网"
