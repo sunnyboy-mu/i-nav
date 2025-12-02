@@ -36,18 +36,6 @@
 - [Tanstack](https://tanstack.com) - 适用于数据管理、数据可视化、图表、表格和用户界面组件等
 - [ahooks](https://ahooks.js.org/zh-CN) - 一套高质量可靠的 React Hooks 库
 
-## Framework 框架
-
-- [Nuxt](https://nuxt.com) - 使用 Nuxt 这一开源框架，打造高品质的 Web 应用，它让 Vue.js 的全栈开发变得直观易行
-- [Next.js](https://nextjs.org/) - 用于 Web 的全栈 React 框架
-- [uni-app](https://uniapp.dcloud.net.cn/) - 使用 Vue.js 开发所有前端应用的框架，一套代码，运行到多个平台
-- [Node.js](https://nodejs.org/zh-cn) - 一个免费、开源、跨平台的 JavaScript 运行时环境
-- [Electron](https://www.electronjs.org/zh/) - 使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用程序
-- [NativeScript-Vue](https://nativescript-vue.org/) - 令人愉快的移动应用程序开发；Vue 的自定义渲染器 + NativeScript 原生引擎
-- [NestJS](https://nestjs.com/) - Node 框架，用于构建高效、可靠和可扩展的服务器端应用程序
-- [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/) - 一个简单、高效的应用开发框架和丰富的组件及 API
-- [HarmonyOS](https://developer.huawei.com/) - 开发者官网，共建鸿蒙生态
-
 ## Plugin 插件
 
 - [markdown-exit](https://github.com/serkodev/markdown-exit) - 快速、可定制的 Markdown 解析器和渲染器，完全支持 CommonMark
@@ -130,6 +118,31 @@
 - [Stylelint](https://stylelint.io) - 一个强大的 CSS 代码检查工具，帮助您避免错误并强制执行代码规范
 - [Oxlint](https://oxc.rs/) - 正在构建一个解析器、linter、格式化程序、转译器、压缩器、解析器
 
+## 多端框架
+
+- [uni-app](https://uniapp.dcloud.net.cn/) - 使用 Vue.js 开发所有前端应用的框架，一套代码，运行到多个平台
+- [Electron](https://www.electronjs.org/zh/) - 使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用程序
+- [NativeScript-Vue](https://nativescript-vue.org/) - 令人愉快的移动应用程序开发；Vue 的自定义渲染器 + NativeScript 原生引擎
+- [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/) - 一个简单、高效的应用开发框架和丰富的组件及 API
+- [Node.js](https://nodejs.org/zh-cn) - 一个免费、开源、跨平台的 JavaScript 运行时环境
+- [NestJS](https://nestjs.com/) - Node 框架，用于构建高效、可靠和可扩展的服务器端应用程序
+- [HarmonyOS](https://developer.huawei.com/) - 开发者官网，共建鸿蒙生态
+
+## SSR & SSG
+
+- [Nuxt](https://nuxt.com) - 打造高品质的 Web 应用，让 Vue.js 的全栈开发变得直观易行
+- [Next.js](https://nextjs.org/) - 用于 Web 的全栈 React 框架
+
+
+## Micro 微前端
+
+- [qiankun](https://qiankun.umijs.org/zh) - 可能是你见过最完善的微前端解决方案 🧐
+- [EMP](https://emp2.netlify.app/) - 聚焦微前端生态闭环建设,v2.7 全面支持模块共享热更
+- [MicroApp](https://jd-opensource.github.io/micro-app/) - 一款简约、高效、功能强大的微前端框架
+- [无界](https://wujie-micro.github.io/doc/) - 基于 WebComponent 容器 + iframe 沙箱
+- [Garfish](https://www.garfishjs.org/) - 构建微前端系统时所需要的基本能力，任意前端框架均可使用。接入简单
+- [Icestark](https://micro-frontends.ice.work) - 面向大型系统的微前端解决方案
+
 ## Template 模板
 
 - [uni-plus](https://github.com/DaMaiCoding/uni-plus) - uniapp 跨端快速启动模板
@@ -156,15 +169,6 @@
 - [Favicon Extractor](https://www.faviconextractor.com/) - 提取 favicons
 - [Hitokoto](https://hitokoto.cn/) - 感动，动漫，二次元，台词，语句
 - [Cravatar ](https://cn.cravatar.com/) - 互联网公共头像服务
-
-## Micro 微前端
-
-- [qiankun](https://qiankun.umijs.org/zh) - 可能是你见过最完善的微前端解决方案 🧐
-- [EMP](https://emp2.netlify.app/) - 聚焦微前端生态闭环建设,v2.7 全面支持模块共享热更
-- [MicroApp](https://jd-opensource.github.io/micro-app/) - 一款简约、高效、功能强大的微前端框架
-- [无界](https://wujie-micro.github.io/doc/) - 基于 WebComponent 容器 + iframe 沙箱
-- [Garfish](https://www.garfishjs.org/) - 构建微前端系统时所需要的基本能力，任意前端框架均可使用。接入简单
-- [Icestark](https://micro-frontends.ice.work) - 面向大型系统的微前端解决方案
 
 [Official Icon]: ./icon/official-icon.svg "官网"
 [Chinese Icon]: ./icon/chinese-icon.svg "中文网"
