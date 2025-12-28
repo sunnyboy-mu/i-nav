@@ -30,6 +30,7 @@
 - [Any Listen](https://github.com/any-listen) - 一个跨平台的私人音乐播放服务
 - [动漫共和国](https://www.oneghg.com/) - 一款专为二次元爱好者打造的追番神器 ![Android][Android Icon] ![Windows][Windows Icon]
 - [omofun](https://www.omoo.app/) - 看漫如此简单(￣﹃￣)~omO ![Android][Android Icon] ![Windows][Windows Icon]
+- [次元城动画](https://www.cycani.org/) - 海量蓝光番剧免费看！
 - [legado](https://github.com/gedoor/legado) - 阅读是一款可以自定义来源阅读网络内容的工具 ![Android][Android Icon]
 
 ### 效率工具
