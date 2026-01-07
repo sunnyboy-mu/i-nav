@@ -127,6 +127,7 @@
 - [Node.js](https://nodejs.org/zh-cn) - 一个免费、开源、跨平台的 JavaScript 运行时环境
 - [NestJS](https://nestjs.com/) - Node 框架，用于构建高效、可靠和可扩展的服务器端应用程序
 - [HarmonyOS](https://developer.huawei.com/) - 开发者官网，共建鸿蒙生态
+- [WXT](https://wxt.dev/) - 让网页扩展程序的开发速度比以往任何时候都更快
 
 ## SSR & SSG
 
