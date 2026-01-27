@@ -165,6 +165,7 @@
 - [Font Awesome](https://fa6.dashgame.com/) - 一款专业的互联网图标库和工具套件
 - [Shields.io](https://shields.io/) - 一项简洁、一致、易读的徽章服务
 - [站酷 ZCOOL](https://www.zcool.com.cn/) - 设计师互动平台-打开站酷,发现更好的设计!
+- [Calicat](https://www.calicat.cn/) - AI产品原型设计，简洁高效的一站式产设研协作平台
 
 ## API 服务
 
