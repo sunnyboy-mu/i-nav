@@ -38,6 +38,7 @@
 - [十年之约](https://www.foreverblog.cn/) - 一个人的寂寞，一群人的狂欢
 - [开往](https://www.travellings.cn/) - 友链接力
 - [城市漫步](https://shenzhen.citywalk.group/) - City Walk 行动指南
+- [macOS Tahoe](https://macos-tahoe.com/) - 一站式的 macOS Tahoe 兼容性检查器、安装指南和全面功能分析目的地
 
 ## 学习园地
 
